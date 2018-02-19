@@ -7,7 +7,7 @@
 # Code
 Du_code_de_qualité
 
-```js
+- ```js
 var sample = 'code';
 
 on.multiple(lines) {
