@@ -16,6 +16,7 @@ Here is a footnote reference,[^1] and another.[^longnote]
     Subsequent paragraphs are indented to show that they
 belong to the previous footnote.
 ***
+[Carte Perso Vernis Recto Full](/uploads/carte-perso-vernis-recto-full.pdf "Carte Perso Vernis Recto Full")
 
 # Code
 Du_code_de_qualité
