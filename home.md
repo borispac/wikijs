@@ -1,4 +1,7 @@
-<!-- TITLE: Home -->
-<!-- SUBTITLE: A quick summary of Home -->
+<!-- TITLE: Accueil -->
+<!-- SUBTITLE: Wiki regroupant les informations utiles relatives à WiSolv -->
 
-# Header
+# Process internes
+# Liens utiles
+- [Moteur de recherche](https://google.com)
+- [Site web](http://wisolv.com)
