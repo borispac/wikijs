@@ -3,6 +3,16 @@
 
 # Process internes
 - [Liste des process interne](/process/)
+
+# Code
+
+```js
+var sample = 'code';
+
+on.multiple(lines) {
+    cool();
+}
+```
 # Liens utiles
 - [Moteur de recherche](https://google.com)
 - [Site web](http://wisolv.com)
