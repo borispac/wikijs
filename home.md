@@ -3,11 +3,7 @@
 
 # Process internes
 - [Liste des process interne](/process/)
-
-^ Heading 1      ^ Heading 2       ^ Heading 3          ^
-| Row 1 Col 1    | Row 1 Col 2     | Row 1 Col 3        |
-| Row 2 Col 1    | some colspan (note the double pipe) ||
-| Row 3 Col 1    | Row 3 Col 2     | Row 3 Col 3        |
+![300](/uploads/300 "300")
 # Un_tableau
 Something ~~not cool~~
 ***
