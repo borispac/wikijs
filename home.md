@@ -4,6 +4,19 @@
 # Process internes
 - [Liste des process interne](/process/)
 
+# Un_tableau
+Something ~~not cool~~
+***
+Here is a footnote reference,[^1] and another.[^longnote]
+
+[^1]: Here is the footnote.
+
+[^longnote]: Here's one with multiple blocks.
+
+    Subsequent paragraphs are indented to show that they
+belong to the previous footnote.
+***
+
 # Code
 Du_code_de_qualité
 
