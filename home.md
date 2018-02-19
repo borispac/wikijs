@@ -7,7 +7,7 @@
 # Code
 Du_code_de_qualité
 
-- ```js
+```js
 var sample = 'code';
 
 on.multiple(lines) {
@@ -15,6 +15,22 @@ on.multiple(lines) {
 }
 ```
 
+# Blockquotes
+> Default
+
+> Info
+{.is-info}
+
+> Success
+> Plusieurs lignes
+> You can even include **styling** in your text, or **icons** :apple:
+{.is-success}
+
+> Warning
+{.is-warning}
+
+> Danger
+{.is-danger}
 # Liens utiles
 - [Moteur de recherche](https://google.com)
 - [Site web](http://wisolv.com)
