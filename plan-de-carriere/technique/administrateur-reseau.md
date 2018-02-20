@@ -9,6 +9,13 @@ Autres appellations :
 * Administrateur système
 
 # Activités principales
+- Analyser la mise en production des ressources	
+- Maintenir les conditions générales de production et de service	
+- Mettre en production	
+- Administrer et optimiser	
+- Vérifier le bon fonctionnement avec les autres briques techniques et fonctionnelles	
+	
+
 
 # Activités complémentaires
 
