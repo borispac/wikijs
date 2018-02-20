@@ -20,7 +20,20 @@ Il effectue le support matériel quotidiennement.
 - Vérifier le bon fonctionnement avec les autres briques techniques et fonctionnelles	
 - Savoir administrer les bases de données
 # Activités complémentaires
-
+- Proposer des scénarios d'évolution des infrastructures	
+- Apporter une vision technique dans le cadre du chiffrage d'un projet	
+- Participer au processus d'avant-vente	
+- Former des utilisateurs	
+- Effectuer le monitoring quotidien des serveurs
 # Compétences tranverses
+- Analyse et synthèse	
+- Rigueur et organisation 	
+- Adaptabilité	
 
 # Compétences métier
+- Gouvernance SI	
+- Intégration	
+- Gestion des opérations informatiques	
+- Supervision et administartion d'un SI	
+- Gestion des contrôles, tests et diagnostics	
+- Mise en production et maintenance	
